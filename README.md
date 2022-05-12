@@ -1,0 +1,1 @@
+# obj-creation-scaner-variable-while-do
